@@ -2,6 +2,6 @@
 
 
 # uds-garden-infos
--Site pour en apprendre plus sur nos évenements et nos contenus.
+- Developpement d'un site d'annonce pour en apprendre plus sur nos évenements et nos contenus.
 
 
